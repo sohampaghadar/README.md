@@ -1,6 +1,7 @@
 # README.md
 ETL-project
 
+I used Databricks for processing the data
 
 # import section
 from pyspark.sql import SparkSession  
