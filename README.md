@@ -220,7 +220,7 @@ spark = SparkSession.builder \
 option_for_snowflake= {
     "sfUrl": "https://sh42165.ap-southeast-1.snowflakecomputing.com",
     "sfUser": "SOHAM",
-    "sfPassword": "Soham9409011570",
+    "sfPassword": " ",
     "sfDatabase": "ETL_DB",
     "sfSchema": "ETL_SCHEMA",
     "sfWarehouse": "COMPUTE_WH"
