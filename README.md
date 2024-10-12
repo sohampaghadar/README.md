@@ -364,4 +364,30 @@ group by
 select * from cte_traffic 
 order by 
     total_page_views desc;
-    
+
+
+
+
+
+# Building dashboard on using Power BI tool
+1. download the Power BI from Microsoft store
+2. Home-> Get data-> more...-> snowflake-> connect-> I given my server of snowflake->  given my warehouse-name of snowflake->  ok-> given User-name of snowflake-> given password of sonwflake's account
+3. I selected my database 👉[ETL_DB], schema 👉[ETL_SCHEMA], then select my table 👉[project], then import in to Power BI. 
+
+
+My dashboard's Title is:- "Social Media Performance"
+(1) My first visualization using: Slicer
+    put [traffic_source] in to the field of Visualizations Section
+
+(2) My second visulization using: Line Chart
+    put [new-date] & [Year] in to the X-axis of Visualizations Section
+    put [post_total_impressions] & [post_total_reach] in to the Y-axis Visualizations Section
+
+(3) My third Visualizations using: Clustered column Chart
+    put [post_weekday]  in to the X-axis of Visualizations Section
+    put [engaged_users] in to the Y-axis of Visualizations Section
+
+(4) My four Visualizations using: stacked column Chart
+    put [type] in to the X-axis of Visualizations Section
+    put [post_total_impressions] in to the Y-axis of Visualizations Section
+
