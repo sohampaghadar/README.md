@@ -393,4 +393,7 @@ My dashboard's Title is:- "Social Media Performance"
 
 
 # I have attached a photo and PDF of the dashboard I created.
-![Dashboard of Project](https://github.com/user-attachments/assets/61e666aa-6d2b-42c1-a857-ce81d807a233)
+![Dashboard of Project](https://github.com/user-attachments/assets/e6aa5799-4d00-45fa-a8f3-967a92f0d313)
+
+[Dashboard  .pdf](https://github.com/user-attachments/files/17349808/Dashboard.pdf)
+
