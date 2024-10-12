@@ -391,3 +391,6 @@ My dashboard's Title is:- "Social Media Performance"
     put [type] in to the X-axis of Visualizations Section
     put [post_total_impressions] in to the Y-axis of Visualizations Section
 
+
+# I have attached a photo and PDF of the dashboard I created.
+![Dashboard of Project](https://github.com/user-attachments/assets/61e666aa-6d2b-42c1-a857-ce81d807a233)
