@@ -139,7 +139,7 @@ web_data.show()
 # counting total rows of web-data dataframe
 web_data.count()
 
-# drona() is used for removing all rows where null occur
+# dropna() is used for removing all rows where null occur
 web_data1= web_data.dropna()
 
 # counting total rows from web-data1
